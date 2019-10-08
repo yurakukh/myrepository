@@ -1,0 +1,11 @@
+D:\проекти\lab3_addTask\lab3_addTask\bin\Debug\netcoreapp2.1\lab3_addTask.deps.json
+D:\проекти\lab3_addTask\lab3_addTask\bin\Debug\netcoreapp2.1\lab3_addTask.runtimeconfig.json
+D:\проекти\lab3_addTask\lab3_addTask\bin\Debug\netcoreapp2.1\lab3_addTask.runtimeconfig.dev.json
+D:\проекти\lab3_addTask\lab3_addTask\bin\Debug\netcoreapp2.1\lab3_addTask.dll
+D:\проекти\lab3_addTask\lab3_addTask\bin\Debug\netcoreapp2.1\lab3_addTask.pdb
+D:\проекти\lab3_addTask\lab3_addTask\obj\Debug\netcoreapp2.1\lab3_addTask.csprojAssemblyReference.cache
+D:\проекти\lab3_addTask\lab3_addTask\obj\Debug\netcoreapp2.1\lab3_addTask.csproj.CoreCompileInputs.cache
+D:\проекти\lab3_addTask\lab3_addTask\obj\Debug\netcoreapp2.1\lab3_addTask.AssemblyInfoInputs.cache
+D:\проекти\lab3_addTask\lab3_addTask\obj\Debug\netcoreapp2.1\lab3_addTask.AssemblyInfo.cs
+D:\проекти\lab3_addTask\lab3_addTask\obj\Debug\netcoreapp2.1\lab3_addTask.dll
+D:\проекти\lab3_addTask\lab3_addTask\obj\Debug\netcoreapp2.1\lab3_addTask.pdb
