@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\проекти\\lab7\\lab7\\lab7.csproj": {}
+    "D:\\проекти\\myrepository\\lab7\\lab7\\lab7.csproj": {}
   },
   "projects": {
-    "D:\\проекти\\lab7\\lab7\\lab7.csproj": {
+    "D:\\проекти\\myrepository\\lab7\\lab7\\lab7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\проекти\\lab7\\lab7\\lab7.csproj",
+        "projectUniqueName": "D:\\проекти\\myrepository\\lab7\\lab7\\lab7.csproj",
         "projectName": "lab7",
-        "projectPath": "D:\\проекти\\lab7\\lab7\\lab7.csproj",
+        "projectPath": "D:\\проекти\\myrepository\\lab7\\lab7\\lab7.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\проекти\\lab7\\lab7\\obj\\",
+        "outputPath": "D:\\проекти\\myrepository\\lab7\\lab7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
