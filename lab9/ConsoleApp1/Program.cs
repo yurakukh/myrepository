@@ -46,6 +46,7 @@ namespace ConsoleApp1
             Painter.Draw(quadrate);
             Painter.Draw(picture);
 
+            
         }
 
     }
