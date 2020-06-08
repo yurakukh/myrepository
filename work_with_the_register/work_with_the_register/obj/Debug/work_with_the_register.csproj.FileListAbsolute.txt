@@ -1,0 +1,10 @@
+D:\projects csharp\work_with_the_register\work_with_the_register\bin\Debug\work_with_the_register.exe.config
+D:\projects csharp\work_with_the_register\work_with_the_register\bin\Debug\work_with_the_register.exe
+D:\projects csharp\work_with_the_register\work_with_the_register\bin\Debug\work_with_the_register.pdb
+D:\projects csharp\work_with_the_register\work_with_the_register\obj\Debug\work_with_the_register.csprojAssemblyReference.cache
+D:\projects csharp\work_with_the_register\work_with_the_register\obj\Debug\work_with_the_register.Form1.resources
+D:\projects csharp\work_with_the_register\work_with_the_register\obj\Debug\work_with_the_register.Properties.Resources.resources
+D:\projects csharp\work_with_the_register\work_with_the_register\obj\Debug\work_with_the_register.csproj.GenerateResource.cache
+D:\projects csharp\work_with_the_register\work_with_the_register\obj\Debug\work_with_the_register.exe
+D:\projects csharp\work_with_the_register\work_with_the_register\obj\Debug\work_with_the_register.pdb
+D:\projects csharp\work_with_the_register\work_with_the_register\obj\Debug\work_with_the_register.csproj.CoreCompileInputs.cache
