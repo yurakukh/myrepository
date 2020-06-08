@@ -1,0 +1,10 @@
+D:\projects csharp\files_lab\files_lab\bin\Debug\files_lab.exe.config
+D:\projects csharp\files_lab\files_lab\bin\Debug\files_lab.exe
+D:\projects csharp\files_lab\files_lab\bin\Debug\files_lab.pdb
+D:\projects csharp\files_lab\files_lab\obj\Debug\files_lab.csprojAssemblyReference.cache
+D:\projects csharp\files_lab\files_lab\obj\Debug\files_lab.Form1.resources
+D:\projects csharp\files_lab\files_lab\obj\Debug\files_lab.Properties.Resources.resources
+D:\projects csharp\files_lab\files_lab\obj\Debug\files_lab.csproj.GenerateResource.cache
+D:\projects csharp\files_lab\files_lab\obj\Debug\files_lab.exe
+D:\projects csharp\files_lab\files_lab\obj\Debug\files_lab.pdb
+D:\projects csharp\files_lab\files_lab\obj\Debug\files_lab.csproj.CoreCompileInputs.cache
